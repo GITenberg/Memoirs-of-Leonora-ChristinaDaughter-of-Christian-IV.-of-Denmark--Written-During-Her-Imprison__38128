@@ -1,0 +1,44 @@
+_repo: Memoirs-of-Leonora-ChristinaDaughter-of-Christian-IV.-of-Denmark--Written-During-Her-Imprison__38128
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bunnett, F. E. (Fanny Elizabeth)
+    alias: Bunnett, Fanny Elizabeth
+    birthdate: 1832
+    deathdate: 1875
+    gutenberg_agent_id: '1276'
+    url: http://www.gutenberg.org/2009/agents/1276
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ulfeldt, Leonora Christina, grevinde
+    aliases:
+    - Leonora Christina, grevinde til Slesvig og Holsten
+    - Ulfeld, Eleonora Christina, Countess
+    birthdate: 1621
+    deathdate: 1698
+    gutenberg_agent_id: '39253'
+    url: http://www.gutenberg.org/2009/agents/39253
+    wikipedia: http://en.wikipedia.org/wiki/Leonora_Christina_Ulfeldt
+description: ''
+gutenberg_issued: '2011-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38128'
+  lccn: '14011674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denmark -- History -- Christian V, 1670-1699 -- Sources'
+- !lcsh 'Women political prisoners -- Denmark -- Biography'
+- !lcsh 'Ulfeldt, Leonora Christina, grevinde, 1621-1698 -- Imprisonment'
+- !lcc 'DL'
+- !lcsh 'Princesses -- Denmark -- Biography'
+- !lcsh 'Denmark -- History -- Frederick III, 1648-1670 -- Sources'
+title: "Memoirs of Leonora Christina, Daughter of Christian IV. of Denmark\r\nWritten\
+  \ During Her Imprisonment in the Blue Tower at Copenhagen 1663-1685"
+url: http://www.gutenberg.org/ebooks/38128
